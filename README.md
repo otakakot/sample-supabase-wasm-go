@@ -1,0 +1,1 @@
+# sample-supabase-wasm-go
